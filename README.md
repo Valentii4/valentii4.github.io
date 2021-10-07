@@ -1,2 +1,2 @@
 # Feature-togle
-test
+ch_apt = true
