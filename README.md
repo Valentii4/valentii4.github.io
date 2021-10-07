@@ -1,2 +1,2 @@
 # Feature-togle
-ch_apt = true
+ch_apt = 1
